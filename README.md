@@ -20,8 +20,7 @@ understanding of foul play in soccer and provide a valuable reference for future
 research and practice in this area.
 
 ## Dataset Description
-dataset: https://drive.google.com/file/d/1ja-aIsd4Ujnci2Pd4fSMFXBuQgleLncr/view?usp=sharing
-
+dataset: 
 ## Inference
 ```
 python futurefoul.py
